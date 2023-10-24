@@ -30,7 +30,8 @@
    [__задание__](https://github.com/netology-code/dj-homeworks/tree/video/3.4-django-testing)
 
 
-
+#### Расширенный инструментарий JavaScript в браузере #
+...
 
 
 
