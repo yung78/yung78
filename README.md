@@ -17,34 +17,34 @@
    [Props и Typescript 2](https://github.com/yung78/ra-hw3.1.git)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/props)
 
-4. [Формы]()  
+4. Формы  
    [__задание__]()
 
-5. [Композиция компонентов]()  
+5. Композиция компонентов  
    [__задание__]()
 
-6. [Жизненный цикл и работа с HTTP]()  
+6. Жизненный цикл и работа с HTTP  
    [__задание__]()  
 
-7. [Компоненты высшего порядка]()  
+7. Компоненты высшего порядка  
    [__задание__]()
 
-8. [hooks, Context API]()  
+8. hooks, Context API  
    [__задание__]()
 
-9. [React Router]()  
+9. React Router  
    [__задание__]()
 
-10. [Redux]()  
+10. Redux  
     [__задание__]()
 
-11. [Redux Toolkit]()  
+11. Redux Toolkit  
     [__задание__]()
 
-12. [Redux Toolkit]()  
+12. Redux Toolkit  
     [__задание__]()
 
-13. [Redux Saga]()  
+13. Redux Saga  
     [__задание__]()
 
 
