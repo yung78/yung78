@@ -17,7 +17,7 @@
    [Props и Typescript 2](https://github.com/yung78/ra-hw3.1.git)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/props)
 
-4. Формы  
+4. [Формы 1](https://github.com/yung78/ra-hw4.1)    
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/forms)
 
 5. Композиция компонентов  
