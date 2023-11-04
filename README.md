@@ -18,10 +18,11 @@
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/props)
 
 4. [Формы 1](https://github.com/yung78/ra-hw4.1)    
-   [Формы 1](https://github.com/yung78/ra-hw4.2)  
+   [Формы 2](https://github.com/yung78/ra-hw4.2)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/forms)
 
-6. Композиция компонентов  
+5. [Композиция компонентов 1](https://github.com/yung78/ra-hw5.1)  
+   [Композиция компонентов 1](https://github.com/yung78/ra-hw5.2)  
    [__задание__]()
 
 7. Жизненный цикл и работа с HTTP  
