@@ -23,7 +23,7 @@
 
 5. [Композиция компонентов 1](https://github.com/yung78/ra-hw5.1)  
    [Композиция компонентов 1](https://github.com/yung78/ra-hw5.2)  
-   [__задание__]()
+   [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/composition)  
 
 7. Жизненный цикл и работа с HTTP  
    [__задание__]()  
