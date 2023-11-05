@@ -6,27 +6,27 @@
 #### React: Библиотека №1 в современной фронтенд-разработке #
 
 1. Компоненты  
-   [задача 1](https://github.com/yung78/ra-hw1.1), [задача 2](https://github.com/yung78/ra-hw1.2)  
+   [задача 1](https://github.com/yung78/ra-hw1.1), [ задача 2](https://github.com/yung78/ra-hw1.2)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/components)
 
 2. События и состояние  
-   [задача 1](https://github.com/yung78/ra-hw2.1.git), [задача 2](https://github.com/yung78/ra-hw2.2.git)  
+   [задача 1](https://github.com/yung78/ra-hw2.1.git), [ задача 2](https://github.com/yung78/ra-hw2.2.git)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/events-state)
 
 3. Props и Typescript   
-   [задача 1](https://github.com/yung78/ra-hw3.1.git), [задача 2](https://github.com/yung78/ra-hw3.1.git)  
+   [задача 1](https://github.com/yung78/ra-hw3.1.git), [ задача 2](https://github.com/yung78/ra-hw3.1.git)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/props)
 
 4. Формы  
-   [задача 1](https://github.com/yung78/ra-hw4.1), [задача 2](https://github.com/yung78/ra-hw4.2)  
+   [задача 1](https://github.com/yung78/ra-hw4.1), [ задача 2](https://github.com/yung78/ra-hw4.2)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/forms)
 
 5. Композиция компонентов  
-   [задача 1](https://github.com/yung78/ra-hw5.1), [задача 2](https://github.com/yung78/ra-hw5.2)  
+   [задача 1](https://github.com/yung78/ra-hw5.1), [ задача 2](https://github.com/yung78/ra-hw5.2)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/composition)  
 
 7. Жизненный цикл и работа с HTTP  
-   [задача 1](https://github.com/yung78/ra-hw6.1), [задача 2](https://github.com/yung78/ra-hw6.2)  
+   [задача 1](https://github.com/yung78/ra-hw6.1), [ задача 2](https://github.com/yung78/ra-hw6.2)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/lifecycle-http)  
 
 8. Компоненты высшего порядка  
