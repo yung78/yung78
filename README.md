@@ -25,29 +25,31 @@
    [задача 1](https://github.com/yung78/ra-hw5.1), [ задача 2](https://github.com/yung78/ra-hw5.2)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/composition)  
 
-7. Жизненный цикл и работа с HTTP  
-   [задача 1](https://github.com/yung78/ra-hw6.1), [ задача 2](https://github.com/yung78/ra-hw6.2)  
+6. Жизненный цикл и работа с HTTP  
+   [задача 1](https://github.com/yung78/ra-hw6.1), [ задача 2](https://github.com/yung78/ra-hw6.2)
+   [сервер для задачи №2](https://github.com/yung78/ra-hw6.2_server), [сервер для задачи №2 на render.com](https://ra-hw6-2-server.onrender.com)
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/lifecycle-http)  
 
-8. Компоненты высшего порядка  
+7. Компоненты высшего порядка  
+   [задача 1](https://github.com/yung78/ra-hw7.1), [ задача 2](https://github.com/yung78/ra-hw7.2)  
+   [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/hoc)  
+
+8. hooks, Context API  
    [__задание__]()
 
-9. hooks, Context API  
+9. React Router  
    [__задание__]()
 
-10. React Router  
-   [__задание__]()
+10. Redux  
+    [__задание__]()
 
-11. Redux  
+11. Redux Toolkit  
     [__задание__]()
 
 12. Redux Toolkit  
     [__задание__]()
 
-13. Redux Toolkit  
-    [__задание__]()
-
-14. Redux Saga  
+13. Redux Saga  
     [__задание__]()
 
 
