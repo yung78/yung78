@@ -27,15 +27,16 @@
 
 6. Жизненный цикл и работа с HTTP  
    [задача 1](https://github.com/yung78/ra-hw6.1), [ задача 2](https://github.com/yung78/ra-hw6.2)  
+   [сервер для задачи №2](https://github.com/yung78/ra-hw6.2_server), [сервер для задачи №2 на render.com](https://ra-hw6-2-server.onrender.com)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/lifecycle-http)  
 
 7. Компоненты высшего порядка  
    [задача 1](https://github.com/yung78/ra-hw7.1), [ задача 2](https://github.com/yung78/ra-hw7.2)  
-   [сервер для задачи №2](https://github.com/yung78/ra-hw6.2_server), [сервер для задачи №2 на render.com](https://ra-hw6-2-server.onrender.com)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/hoc)  
 
 8. hooks, Context API  
-   [__задание__]()
+   [задача 1](https://github.com/yung78/ra-hw8.1), [ задача 2](https://github.com/yung78/ra-hw8.2)  
+   [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/hooks-context)
 
 9. React Router  
    [__задание__]()
