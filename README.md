@@ -31,7 +31,7 @@
 
 7. Компоненты высшего порядка  
    [задача 1](https://github.com/yung78/ra-hw7.1), [ задача 2](https://github.com/yung78/ra-hw7.2)  
-   [сервер для задачи №2](https://github.com/yung78/ra-hw6.2_server), [сервер для задачи №2 на render.com](https://ra-hw6-2-server.onrender.com)
+   [сервер для задачи №2](https://github.com/yung78/ra-hw6.2_server), [сервер для задачи №2 на render.com](https://ra-hw6-2-server.onrender.com)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/hoc)  
 
 8. hooks, Context API  
