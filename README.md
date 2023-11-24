@@ -39,7 +39,9 @@
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/hooks-context)
 
 9. React Router  
-   [__задание__]()
+   [задача 1](https://github.com/yung78/ra-hw9.1), [ задача 2](https://github.com/yung78/ra-hw9.2)  
+   [сервер для задачи №2](https://github.com/yung78/ra-hw9.2_server), [сервер для задачи №2 на render.com](https://ra-hw9-2-server.onrender.com)  
+   [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/router)
 
 10. Redux  
     [__задание__]()
