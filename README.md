@@ -52,7 +52,7 @@
     [Решение](https://github.com/yung78/ra-hw11)    
     [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/toolkit)
 
-13. Redux Saga
+13. Redux Saga  
     [Решение 1]()  
     [Решение 2]()  
     [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/saga)  
