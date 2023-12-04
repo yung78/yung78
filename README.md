@@ -6,54 +6,56 @@
 #### React: Библиотека №1 в современной фронтенд-разработке #
 
 1. Компоненты  
-   [задача 1](https://github.com/yung78/ra-hw1.1), [ задача 2](https://github.com/yung78/ra-hw1.2)  
+   [Решение 1](https://github.com/yung78/ra-hw1.1), [ Решение 2](https://github.com/yung78/ra-hw1.2)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/components)
 
 2. События и состояние  
-   [задача 1](https://github.com/yung78/ra-hw2.1.git), [ задача 2](https://github.com/yung78/ra-hw2.2.git)  
+   [Решение 1](https://github.com/yung78/ra-hw2.1.git), [ Решение 2](https://github.com/yung78/ra-hw2.2.git)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/events-state)
 
 3. Props и Typescript   
-   [задача 1](https://github.com/yung78/ra-hw3.1.git), [ задача 2](https://github.com/yung78/ra-hw3.1.git)  
+   [Решение 1](https://github.com/yung78/ra-hw3.1.git), [ Решение 2](https://github.com/yung78/ra-hw3.1.git)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/props)
 
 4. Формы  
-   [задача 1](https://github.com/yung78/ra-hw4.1), [ задача 2](https://github.com/yung78/ra-hw4.2)  
+   [Решение 1](https://github.com/yung78/ra-hw4.1), [ Решение 2](https://github.com/yung78/ra-hw4.2)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/forms)
 
 5. Композиция компонентов  
-   [задача 1](https://github.com/yung78/ra-hw5.1), [ задача 2](https://github.com/yung78/ra-hw5.2)  
+   [Решение 1](https://github.com/yung78/ra-hw5.1), [ Решение 2](https://github.com/yung78/ra-hw5.2)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/composition)  
 
 6. Жизненный цикл и работа с HTTP  
-   [задача 1](https://github.com/yung78/ra-hw6.1), [ задача 2](https://github.com/yung78/ra-hw6.2)  
+   [Решение 1](https://github.com/yung78/ra-hw6.1), [ Решение 2](https://github.com/yung78/ra-hw6.2)  
    [сервер для задачи №2](https://github.com/yung78/ra-hw6.2_server), [сервер для задачи №2 на render.com](https://ra-hw6-2-server.onrender.com)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/lifecycle-http)  
 
 7. Компоненты высшего порядка  
-   [задача 1](https://github.com/yung78/ra-hw7.1), [ задача 2](https://github.com/yung78/ra-hw7.2)  
+   [Решение 1](https://github.com/yung78/ra-hw7.1), [ Решение 2](https://github.com/yung78/ra-hw7.2)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/hoc)  
 
 8. hooks, Context API  
-   [задача 1](https://github.com/yung78/ra-hw8.1), [ задача 2](https://github.com/yung78/ra-hw8.2)  
+   [Решение 1](https://github.com/yung78/ra-hw8.1), [ Решение 2](https://github.com/yung78/ra-hw8.2)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/hooks-context)
 
 9. React Router  
-   [задача 1](https://github.com/yung78/ra-hw9.1), [ задача 2](https://github.com/yung78/ra-hw9.2)  
+   [Решение 1](https://github.com/yung78/ra-hw9.1), [ Решение 2](https://github.com/yung78/ra-hw9.2)  
    [сервер для задачи №2](https://github.com/yung78/ra-hw9.2_server), [сервер для задачи №2 на render.com](https://ra-hw9-2-server.onrender.com)  
    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/router)
 
-10. Redux  
-    [__задание__]()
-
-11. Redux Toolkit  
-    [__задание__]()
+10. Redux
+    [Решение 1](https://github.com/yung78/ra-hw10.1)  
+    [Решение 2](https://github.com/yung78/ra-hw10.2)  
+    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/redux)
 
 12. Redux Toolkit  
-    [__задание__]()
+    [Решение](https://github.com/yung78/ra-hw11)    
+    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/toolkit)
 
-13. Redux Saga  
-    [__задание__]()
+13. Redux Saga
+    [Решение 1]()  
+    [Решение 2]()  
+    [__задание__](https://github.com/netology-code/ra16-homeworks/tree/ra-51/saga)  
 
 
 
