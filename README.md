@@ -1,5 +1,9 @@
 Для удобной навигации...
 
+## Дипломный проект
+- [Проект](https://github.com/yung78/graduate_work)  
+- [Frontend](https://github.com/yung78/graduate_work/tree/main/frontend)  
+- [Dsckend](https://github.com/yung78/graduate_work/tree/main/backend)
 
 ### Список Д.З.
 
